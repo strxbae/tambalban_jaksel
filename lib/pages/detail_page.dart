@@ -350,6 +350,8 @@ class DetailPage extends StatelessWidget {
                     children: [
                       Text(
                         '${detail.address},\n${detail.urbanVillage}, ${detail.distric}',
+                        maxLines: 3,
+                        overflow: TextOverflow.ellipsis,
                         style: greyTextStyle,
                       ),
                       Container(

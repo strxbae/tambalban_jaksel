@@ -2717,8 +2717,8 @@
     "distric": "Mampang Prapatan",
     "urbanVillage": "Bangka",
     "mapUrl": "https://goo.gl/maps/YJg6ownsmoeREzKn6",
-    "lat": -6.256437179226598,
-    "lng": -6.256437179226598
+    "lat": -6.25645920210996, 
+    "lng": 106.82442629507746
   },
   {
     "id": 141,
@@ -5116,8 +5116,8 @@
     "distric": "Pasar Minggu",
     "urbanVillage": "Ragunan",
     "mapUrl": "https://goo.gl/maps/n9yAnNrDzRukd6Zx5",
-    "lat": -6.283850580035821,
-    "lng": -6.283850580035821
+    "lat": -6.283847275117127, 
+    "lng": 106.8264926644175
   },
   {
     "id": 264,
@@ -5336,8 +5336,8 @@
     "distric": "Jagakarsa",
     "urbanVillage": "Jagakarsa",
     "mapUrl": "https://goo.gl/maps/RSyULVPvG12ns7pAA",
-    "lat": 106.81208040565252,
-    "lng": 106.81208040565252
+    "lat": -6.327080133830267, 
+    "lng": 106.81208039264632
   },
   {
     "id": 275,
